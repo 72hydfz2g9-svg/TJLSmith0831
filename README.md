@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <a href="tjlsmith0831.dev" target="_blank">
+  <a href="https://tjlsmith0831.dev" target="_blank">
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:tjlsmith0831@gmail.com">
