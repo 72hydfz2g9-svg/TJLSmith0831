@@ -13,6 +13,9 @@
 <br>
 
 <div align="center">
+  <a href="tjlsmith0831.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="mailto:tjlsmith0831@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -29,6 +32,18 @@
 
 <hr>
 
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,r,python,postgres,mongodb,tailwind,redux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,git,julia,nextjs,docker,figma,aws,gcp,firebase" />
+</p>
+
+<hr>
+
 ## 💻 Code Contributions
 
 <br>
@@ -39,16 +54,4 @@
 ### 🌍 OSS Contributions
 
 View my ongoing [Open Source Contributions](./CONTRIBUTIONS.md)
-
-<hr>
-
-## 🛠️ Languages and Tools
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,r,python,postgres,mongodb,tailwind,redux" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=html,css,git,julia,nextjs,docker,figma,aws,gcp,firebase" />
-</p>
 
